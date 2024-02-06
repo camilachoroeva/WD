@@ -1,2 +1,1 @@
-# Template #3
-Task 2 // Template #3
+Apaptive Landing Page for practice
